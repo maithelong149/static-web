@@ -28,7 +28,7 @@ nav{
 nav ul{
     list-style-type: none;
     display: flex;
-    margin: 0px 0px 0px 400px;
+    margin: 0px 0px 0px 530px;
     padding: 0;
     transition: margin .2s;
     font-size: 19px;
@@ -45,6 +45,10 @@ nav li a {
 .logo{
     margin-left: 0px;
 }
+.store{
+    display: grid;
+    
+}
 .LH{
     display: grid;
     grid-template-columns: 33% 33% 34%;
@@ -56,6 +60,13 @@ nav li a {
 }
 .LA img{
     float: left;
+}
+.Lab{
+    height: 1000px;
+    width: 100%;
+}
+.LA p{
+    margin-left: 500px;
 }
 nav ul li:hover>a{
     font-size: 21px;
