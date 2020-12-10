@@ -55,7 +55,7 @@ nav li a {
     grid-template-rows: 300px 300px 300px;
 }
 .LA img{
-    
+    float: left;
 }
 nav ul li:hover>a{
     font-size: 21px;
