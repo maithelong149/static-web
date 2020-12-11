@@ -79,11 +79,12 @@
     </html>
 <img src="hompage.png">
 # Store
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Landing Page</title>
-        <link rel="StyleSheet" href="./css/style.css">
+            <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>Landing Page</title>
+                    <link rel="StyleSheet" href="./css/style.css">
 
     </head>
 
